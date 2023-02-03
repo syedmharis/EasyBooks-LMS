@@ -1,0 +1,42 @@
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\bin\Debug\net6.0\appsettings.json
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.exe
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.deps.json
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.runtimeconfig.json
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.dll
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\bin\Debug\net6.0\Library Management System.pdb
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.csproj.AssemblyReference.cache
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.AssemblyInfoInputs.cache
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.AssemblyInfo.cs
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.csproj.CoreCompileInputs.cache
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\obj\Debug\net6.0\staticwebassets\msbuild.Library Management System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\obj\Debug\net6.0\staticwebassets\msbuild.build.Library Management System.props
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Library Management System.props
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Library Management System.props
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\obj\Debug\net6.0\scopedcss\bundle\Library Management System.styles.css
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.csproj.CopyComplete
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.dll
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\obj\Debug\net6.0\refint\Library Management System.dll
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.pdb
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\obj\Debug\net6.0\Library Management System.genruntimeconfig.cache
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\obj\Debug\net6.0\ref\Library Management System.dll
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\coolh\OneDrive\Desktop\Library Management System\Library Management System\Library Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
