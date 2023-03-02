@@ -37,6 +37,11 @@ To run this project locally, you need to have a SSMS, Visual Studio, VS Code. He
   <img src="https://user-images.githubusercontent.com/89534087/222234236-bbef7f3c-bdac-4361-abdf-c3db8afeb622.png" alt="Output 2" width="45%">
 </p>
 
+## ⭐ Demo Video
+
+https://user-images.githubusercontent.com/89534087/222484686-d0bb8d6a-5519-4a6d-a041-995cd07a8fd7.mp4
+
+
 
 ## ⭐ License
 
