@@ -24,7 +24,7 @@ To run this project locally, you need to have a SSMS, Visual Studio, VS Code. He
 
 1. Clone this repository to your local machine: `https://github.com/harrylovescoding/Library-Management-System.git`
 2. Create a new database in SQL Server using SSMS and import the SQL file `lms_db_script` in the `Database` folder.
-3. Edit the database connection settings in `appsettings.json` in the `Backend-API-LMS/Library Management System` folder to match your MySQL credentials.
+3. Open backend project and edit the database connection settings in `appsettings.json` in the `Backend-API-LMS/Library Management System` folder to match your MySQL credentials.
 4. Build your project and open the API backend project in a web browser.
 5. Open the Frontend-React-LMS folder and run npm install in Command line to install all the required dependency.
 6. Run npm start in terminal to run the frontend project
