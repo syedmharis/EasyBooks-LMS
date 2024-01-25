@@ -1,4 +1,4 @@
-# Library Management System 📚
+# EasyBooks - Library Management System 📚
 
 This is a web-based library management system designed to help librarians manage their collections and assist patrons in finding the books they need.
 
